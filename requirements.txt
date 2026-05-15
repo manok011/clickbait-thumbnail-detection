@@ -1,0 +1,13 @@
+flask==1.1.2
+mysql-connector-python
+pandas
+numpy
+scikit-learn
+transformers==4.30.0
+torch
+vaderSentiment
+matplotlib
+seaborn
+opencv-python
+Pillow
+werkzeug==1.0.1

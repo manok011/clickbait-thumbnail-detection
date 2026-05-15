@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+.env
+
+# Flask
+instance/
+.webassets-cache
+
+# Uploaded files (don't push user data)
+static/uploads/
+static/thumbnails/
+static/videos/
+
+# Model files (too large)
+*.pkl
+*.h5
+*.pt
+*.bin
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.onetoc2
+
+# Logs
+*.log

@@ -1,0 +1,37 @@
+============================================
+  GITHUB UPLOAD STEPS - MACHA FOLLOW PANNU!
+============================================
+
+STEP 1: GitHub la New Repo Create Pannu
+----------------------------------------
+1. Go to https://github.com
+2. Login pannu
+3. Click "+" → "New Repository"
+4. Name: clickbait-thumbnail-detection
+5. Description: Comment-Driven Clickbait Thumbnail Detection using VADER and BERT
+6. Public select pannu (portfolio-ku)
+7. DO NOT tick "Add README" (already iruku)
+8. Click "Create Repository"
+
+STEP 2: Terminal Open Pannu (Project Folder la)
+-------------------------------------------------
+cd path/to/click_bait folder
+
+STEP 3: Git Commands Run Pannu
+--------------------------------
+git init
+git add .
+git commit -m "Initial commit - MCA Final Year Project: Clickbait Thumbnail Detection"
+git branch -M main
+git remote add origin https://github.com/YOUR-USERNAME/clickbait-thumbnail-detection.git
+git push -u origin main
+
+STEP 4: Token Use Pannu (Password illai!)
+------------------------------------------
+- GitHub → Settings → Developer Settings
+- Personal Access Tokens → Tokens (classic)
+- Generate new token → tick "repo"
+- Copy token → use as password when pushing
+
+DONE! Project Live on GitHub! 🚀
+============================================

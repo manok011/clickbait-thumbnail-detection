@@ -1,0 +1,501 @@
+Video_ID,Thumbnail_URL,Video_Title,User_Comment,Likes,Sentiment_Score,Clickbait_Label
+VID001,https://img.youtube.com/vi/VID001/maxresdefault.jpg,Breaking News! You Won't Believe This,"Total clickbait, dislike and report.",79,-0.85,1
+VID002,https://img.youtube.com/vi/VID002/maxresdefault.jpg,Must-Know Tips for Traveling on a Budget,Good content! Matches the title and thumbnail perfectly.,48,0.7,0
+VID003,https://img.youtube.com/vi/VID003/maxresdefault.jpg,Top 10 Secrets You Didn't Know!,"Nothing like the thumbnail, this is total clickbait.",63,-0.75,1
+VID004,https://img.youtube.com/vi/VID004/maxresdefault.jpg,Learn Python in 10 Minutes – Is It Possible?,"Exactly what I was looking for, the thumbnail is accurate.",55,0.7,0
+VID005,https://img.youtube.com/vi/VID005/maxresdefault.jpg,Top 10 Secrets You Didn't Know!,"Total clickbait, dislike and report.",41,-0.8,1
+VID006,https://img.youtube.com/vi/VID006/maxresdefault.jpg,Learn Python in 10 Minutes – Is It Possible?,"Clear and honest video, no false thumbnails.",36,0.8,0
+VID007,https://img.youtube.com/vi/VID007/maxresdefault.jpg,The Best Life Hacks for 2025!,Thumbnails are just misleading to get views.,75,-0.85,1
+VID008,https://img.youtube.com/vi/VID008/maxresdefault.jpg,Discover Hidden Gems in Your City,"Informative video, no misleading here.",75,0.85,0
+VID009,https://img.youtube.com/vi/VID009/maxresdefault.jpg,How to Cook Perfect Pasta Every Time,This video is completely misleading!,120,-0.75,1
+VID010,https://img.youtube.com/vi/VID010/maxresdefault.jpg,Unbelievable Trick to Make Money!,"Exactly what I was looking for, the thumbnail is accurate.",136,0.85,0
+VID011,https://img.youtube.com/vi/VID011/maxresdefault.jpg,Unmasking the Truth About Diets,False advertising with that thumbnail. Fake content.,126,-0.85,1
+VID012,https://img.youtube.com/vi/VID012/maxresdefault.jpg,Learn Python in 10 Minutes – Is It Possible?,"Informative video, no misleading here.",60,0.85,0
+VID013,https://img.youtube.com/vi/VID013/maxresdefault.jpg,Top 10 Secrets You Didn't Know!,This video is completely misleading!,45,-0.8,1
+VID014,https://img.youtube.com/vi/VID014/maxresdefault.jpg,Discover Hidden Gems in Your City,"Great video, just like the thumbnail shows!",83,0.7,0
+VID015,https://img.youtube.com/vi/VID015/maxresdefault.jpg,How to Cook Perfect Pasta Every Time,The video does not match the thumbnail at all.,104,-0.8,1
+VID016,https://img.youtube.com/vi/VID016/maxresdefault.jpg,How to Cook Perfect Pasta Every Time,"Great video, just like the thumbnail shows!",113,0.75,0
+VID017,https://img.youtube.com/vi/VID017/maxresdefault.jpg,How to Get a Million Views on YouTube,The video does not match the thumbnail at all.,92,-0.6,1
+VID018,https://img.youtube.com/vi/VID018/maxresdefault.jpg,Top 10 Secrets You Didn't Know!,"No clickbait, just quality information.",107,0.75,0
+VID019,https://img.youtube.com/vi/VID019/maxresdefault.jpg,How to Cook Perfect Pasta Every Time,The video does not match the thumbnail at all.,47,-0.6,1
+VID020,https://img.youtube.com/vi/VID020/maxresdefault.jpg,How to Cook Perfect Pasta Every Time,"No clickbait, just quality information.",149,0.8,0
+VID021,https://img.youtube.com/vi/VID021/maxresdefault.jpg,Must-Know Tips for Traveling on a Budget,Thumbnails are just misleading to get views.,42,-0.8,1
+VID022,https://img.youtube.com/vi/VID022/maxresdefault.jpg,Discover Hidden Gems in Your City,"Exactly what I was looking for, the thumbnail is accurate.",125,0.7,0
+VID023,https://img.youtube.com/vi/VID023/maxresdefault.jpg,Learn Python in 10 Minutes – Is It Possible?,"Nothing like the thumbnail, this is total clickbait.",124,-0.8,1
+VID024,https://img.youtube.com/vi/VID024/maxresdefault.jpg,The Best Life Hacks for 2025!,"Well done, accurate thumbnail!",150,0.8,0
+VID025,https://img.youtube.com/vi/VID025/maxresdefault.jpg,How to Cook Perfect Pasta Every Time,False advertising with that thumbnail. Fake content.,146,-0.8,1
+VID026,https://img.youtube.com/vi/VID026/maxresdefault.jpg,How to Get a Million Views on YouTube,"Clear and honest video, no false thumbnails.",94,0.75,0
+VID027,https://img.youtube.com/vi/VID027/maxresdefault.jpg,The Best Life Hacks for 2025!,"Nothing like the thumbnail, this is total clickbait.",65,-0.85,1
+VID028,https://img.youtube.com/vi/VID028/maxresdefault.jpg,Breaking News! You Won't Believe This,Good content! Matches the title and thumbnail perfectly.,92,0.6,0
+VID029,https://img.youtube.com/vi/VID029/maxresdefault.jpg,The Best Life Hacks for 2025!,"Total clickbait, dislike and report.",54,-0.75,1
+VID030,https://img.youtube.com/vi/VID030/maxresdefault.jpg,Must-Know Tips for Traveling on a Budget,"Clear and honest video, no false thumbnails.",73,0.8,0
+VID031,https://img.youtube.com/vi/VID031/maxresdefault.jpg,How to Cook Perfect Pasta Every Time,The video does not match the thumbnail at all.,80,-0.75,1
+VID032,https://img.youtube.com/vi/VID032/maxresdefault.jpg,Unbelievable Trick to Make Money!,"Informative video, no misleading here.",57,0.85,0
+VID033,https://img.youtube.com/vi/VID033/maxresdefault.jpg,Unbelievable Trick to Make Money!,"Wasted my time, the thumbnail is a lie.",86,-0.85,1
+VID034,https://img.youtube.com/vi/VID034/maxresdefault.jpg,Unbelievable Trick to Make Money!,"Clear and honest video, no false thumbnails.",57,0.8,0
+VID035,https://img.youtube.com/vi/VID035/maxresdefault.jpg,Discover Hidden Gems in Your City,I was expecting something else based on the thumbnail.,46,-0.75,1
+VID036,https://img.youtube.com/vi/VID036/maxresdefault.jpg,Top 10 Secrets You Didn't Know!,"Real value in this video, thumbnail is genuine.",74,0.7,0
+VID037,https://img.youtube.com/vi/VID037/maxresdefault.jpg,Top 10 Secrets You Didn't Know!,This video is completely misleading!,99,-0.85,1
+VID038,https://img.youtube.com/vi/VID038/maxresdefault.jpg,Learn Python in 10 Minutes – Is It Possible?,"Great video, just like the thumbnail shows!",64,0.75,0
+VID039,https://img.youtube.com/vi/VID039/maxresdefault.jpg,How to Get a Million Views on YouTube,"Wasted my time, the thumbnail is a lie.",134,-0.8,1
+VID040,https://img.youtube.com/vi/VID040/maxresdefault.jpg,Discover Hidden Gems in Your City,Good content! Matches the title and thumbnail perfectly.,75,0.75,0
+VID041,https://img.youtube.com/vi/VID041/maxresdefault.jpg,Unbelievable Trick to Make Money!,Clickbait! The thumbnail is far from what was in the video.,147,-0.8,1
+VID042,https://img.youtube.com/vi/VID042/maxresdefault.jpg,Must-Know Tips for Traveling on a Budget,"Great video, just like the thumbnail shows!",109,0.85,0
+VID043,https://img.youtube.com/vi/VID043/maxresdefault.jpg,The Best Life Hacks for 2025!,Clickbait! The thumbnail is far from what was in the video.,140,-0.7,1
+VID044,https://img.youtube.com/vi/VID044/maxresdefault.jpg,Unbelievable Trick to Make Money!,Good content! Matches the title and thumbnail perfectly.,38,0.6,0
+VID045,https://img.youtube.com/vi/VID045/maxresdefault.jpg,Unmasking the Truth About Diets,False advertising with that thumbnail. Fake content.,66,-0.75,1
+VID046,https://img.youtube.com/vi/VID046/maxresdefault.jpg,Unmasking the Truth About Diets,"Informative video, no misleading here.",48,0.85,0
+VID047,https://img.youtube.com/vi/VID047/maxresdefault.jpg,Learn Python in 10 Minutes – Is It Possible?,Clickbait! The thumbnail is far from what was in the video.,32,-0.8,1
+VID048,https://img.youtube.com/vi/VID048/maxresdefault.jpg,Breaking News! You Won't Believe This,"Great video, just like the thumbnail shows!",44,0.85,0
+VID049,https://img.youtube.com/vi/VID049/maxresdefault.jpg,Unmasking the Truth About Diets,Clickbait! The thumbnail is far from what was in the video.,88,-0.8,1
+VID050,https://img.youtube.com/vi/VID050/maxresdefault.jpg,Unmasking the Truth About Diets,"Well done, accurate thumbnail!",97,0.6,0
+VID051,https://img.youtube.com/vi/VID051/maxresdefault.jpg,Unbelievable Trick to Make Money!,False advertising with that thumbnail. Fake content.,141,-0.8,1
+VID052,https://img.youtube.com/vi/VID052/maxresdefault.jpg,Discover Hidden Gems in Your City,"Great video, just like the thumbnail shows!",44,0.75,0
+VID053,https://img.youtube.com/vi/VID053/maxresdefault.jpg,The Best Life Hacks for 2025!,I was expecting something else based on the thumbnail.,126,-0.85,1
+VID054,https://img.youtube.com/vi/VID054/maxresdefault.jpg,Discover Hidden Gems in Your City,"Well done, accurate thumbnail!",59,0.6,0
+VID055,https://img.youtube.com/vi/VID055/maxresdefault.jpg,Must-Know Tips for Traveling on a Budget,I was expecting something else based on the thumbnail.,59,-0.85,1
+VID056,https://img.youtube.com/vi/VID056/maxresdefault.jpg,Must-Know Tips for Traveling on a Budget,"Great video, just like the thumbnail shows!",96,0.85,0
+VID057,https://img.youtube.com/vi/VID057/maxresdefault.jpg,The Best Life Hacks for 2025!,"Thumbnail is fake, the video is boring.",119,-0.7,1
+VID058,https://img.youtube.com/vi/VID058/maxresdefault.jpg,Learn Python in 10 Minutes – Is It Possible?,Good content! Matches the title and thumbnail perfectly.,128,0.8,0
+VID059,https://img.youtube.com/vi/VID059/maxresdefault.jpg,Top 10 Secrets You Didn't Know!,This video is completely misleading!,79,-0.7,1
+VID060,https://img.youtube.com/vi/VID060/maxresdefault.jpg,Unbelievable Trick to Make Money!,"Well done, accurate thumbnail!",123,0.75,0
+VID061,https://img.youtube.com/vi/VID061/maxresdefault.jpg,Top 10 Secrets You Didn't Know!,I was expecting something else based on the thumbnail.,143,-0.85,1
+VID062,https://img.youtube.com/vi/VID062/maxresdefault.jpg,Learn Python in 10 Minutes – Is It Possible?,"No clickbait, just quality information.",84,0.6,0
+VID063,https://img.youtube.com/vi/VID063/maxresdefault.jpg,Breaking News! You Won't Believe This,Thumbnails are just misleading to get views.,137,-0.85,1
+VID064,https://img.youtube.com/vi/VID064/maxresdefault.jpg,Breaking News! You Won't Believe This,"No clickbait, just quality information.",149,0.6,0
+VID065,https://img.youtube.com/vi/VID065/maxresdefault.jpg,Top 10 Secrets You Didn't Know!,False advertising with that thumbnail. Fake content.,112,-0.7,1
+VID066,https://img.youtube.com/vi/VID066/maxresdefault.jpg,How to Cook Perfect Pasta Every Time,Good content! Matches the title and thumbnail perfectly.,45,0.85,0
+VID067,https://img.youtube.com/vi/VID067/maxresdefault.jpg,Top 10 Secrets You Didn't Know!,I was expecting something else based on the thumbnail.,73,-0.8,1
+VID068,https://img.youtube.com/vi/VID068/maxresdefault.jpg,Learn Python in 10 Minutes – Is It Possible?,"Clear and honest video, no false thumbnails.",114,0.7,0
+VID069,https://img.youtube.com/vi/VID069/maxresdefault.jpg,Must-Know Tips for Traveling on a Budget,Clickbait! The thumbnail is far from what was in the video.,98,-0.7,1
+VID070,https://img.youtube.com/vi/VID070/maxresdefault.jpg,Top 10 Secrets You Didn't Know!,"Great video, just like the thumbnail shows!",90,0.85,0
+VID071,https://img.youtube.com/vi/VID071/maxresdefault.jpg,Breaking News! You Won't Believe This,Clickbait! The thumbnail is far from what was in the video.,107,-0.85,1
+VID072,https://img.youtube.com/vi/VID072/maxresdefault.jpg,Unmasking the Truth About Diets,"Exactly what I was looking for, the thumbnail is accurate.",46,0.85,0
+VID073,https://img.youtube.com/vi/VID073/maxresdefault.jpg,How to Cook Perfect Pasta Every Time,"Wasted my time, the thumbnail is a lie.",148,-0.6,1
+VID074,https://img.youtube.com/vi/VID074/maxresdefault.jpg,How to Cook Perfect Pasta Every Time,"Well done, accurate thumbnail!",45,0.7,0
+VID075,https://img.youtube.com/vi/VID075/maxresdefault.jpg,Unbelievable Trick to Make Money!,"Wasted my time, the thumbnail is a lie.",62,-0.6,1
+VID076,https://img.youtube.com/vi/VID076/maxresdefault.jpg,Must-Know Tips for Traveling on a Budget,"Exactly what I was looking for, the thumbnail is accurate.",131,0.85,0
+VID077,https://img.youtube.com/vi/VID077/maxresdefault.jpg,How to Get a Million Views on YouTube,Thumbnails are just misleading to get views.,48,-0.8,1
+VID078,https://img.youtube.com/vi/VID078/maxresdefault.jpg,Must-Know Tips for Traveling on a Budget,"Well done, accurate thumbnail!",60,0.75,0
+VID079,https://img.youtube.com/vi/VID079/maxresdefault.jpg,Discover Hidden Gems in Your City,"Total clickbait, dislike and report.",120,-0.85,1
+VID080,https://img.youtube.com/vi/VID080/maxresdefault.jpg,Discover Hidden Gems in Your City,"Helpful tutorial, just as promised.",84,0.85,0
+VID081,https://img.youtube.com/vi/VID081/maxresdefault.jpg,How to Get a Million Views on YouTube,The video does not match the thumbnail at all.,117,-0.7,1
+VID082,https://img.youtube.com/vi/VID082/maxresdefault.jpg,Learn Python in 10 Minutes – Is It Possible?,Good content! Matches the title and thumbnail perfectly.,130,0.85,0
+VID083,https://img.youtube.com/vi/VID083/maxresdefault.jpg,How to Cook Perfect Pasta Every Time,"Nothing like the thumbnail, this is total clickbait.",57,-0.75,1
+VID084,https://img.youtube.com/vi/VID084/maxresdefault.jpg,The Best Life Hacks for 2025!,"Clear and honest video, no false thumbnails.",40,0.6,0
+VID085,https://img.youtube.com/vi/VID085/maxresdefault.jpg,Learn Python in 10 Minutes – Is It Possible?,False advertising with that thumbnail. Fake content.,48,-0.8,1
+VID086,https://img.youtube.com/vi/VID086/maxresdefault.jpg,Learn Python in 10 Minutes – Is It Possible?,"Great video, just like the thumbnail shows!",121,0.7,0
+VID087,https://img.youtube.com/vi/VID087/maxresdefault.jpg,How to Cook Perfect Pasta Every Time,The video does not match the thumbnail at all.,46,-0.75,1
+VID088,https://img.youtube.com/vi/VID088/maxresdefault.jpg,The Best Life Hacks for 2025!,"Clear and honest video, no false thumbnails.",142,0.6,0
+VID089,https://img.youtube.com/vi/VID089/maxresdefault.jpg,Breaking News! You Won't Believe This,"Wasted my time, the thumbnail is a lie.",123,-0.6,1
+VID090,https://img.youtube.com/vi/VID090/maxresdefault.jpg,Unmasking the Truth About Diets,"Clear and honest video, no false thumbnails.",132,0.8,0
+VID091,https://img.youtube.com/vi/VID091/maxresdefault.jpg,Breaking News! You Won't Believe This,False advertising with that thumbnail. Fake content.,142,-0.85,1
+VID092,https://img.youtube.com/vi/VID092/maxresdefault.jpg,How to Get a Million Views on YouTube,"Great content, good representation in the thumbnail.",131,0.6,0
+VID093,https://img.youtube.com/vi/VID093/maxresdefault.jpg,Unbelievable Trick to Make Money!,"Wasted my time, the thumbnail is a lie.",121,-0.7,1
+VID094,https://img.youtube.com/vi/VID094/maxresdefault.jpg,How to Get a Million Views on YouTube,"No clickbait, just quality information.",130,0.8,0
+VID095,https://img.youtube.com/vi/VID095/maxresdefault.jpg,Unmasking the Truth About Diets,The video does not match the thumbnail at all.,77,-0.6,1
+VID096,https://img.youtube.com/vi/VID096/maxresdefault.jpg,How to Get a Million Views on YouTube,"Real value in this video, thumbnail is genuine.",63,0.6,0
+VID097,https://img.youtube.com/vi/VID097/maxresdefault.jpg,Learn Python in 10 Minutes – Is It Possible?,"Total clickbait, dislike and report.",62,-0.8,1
+VID098,https://img.youtube.com/vi/VID098/maxresdefault.jpg,The Best Life Hacks for 2025!,Good content! Matches the title and thumbnail perfectly.,106,0.8,0
+VID099,https://img.youtube.com/vi/VID099/maxresdefault.jpg,Learn Python in 10 Minutes – Is It Possible?,Clickbait! The thumbnail is far from what was in the video.,134,-0.6,1
+VID100,https://img.youtube.com/vi/VID100/maxresdefault.jpg,How to Cook Perfect Pasta Every Time,"Well done, accurate thumbnail!",112,0.6,0
+VID101,https://img.youtube.com/vi/VID101/maxresdefault.jpg,Learn Python in 10 Minutes – Is It Possible?,"Wasted my time, the thumbnail is a lie.",41,-0.75,1
+VID102,https://img.youtube.com/vi/VID102/maxresdefault.jpg,How to Cook Perfect Pasta Every Time,"Clear and honest video, no false thumbnails.",137,0.75,0
+VID103,https://img.youtube.com/vi/VID103/maxresdefault.jpg,How to Get a Million Views on YouTube,This video is completely misleading!,63,-0.85,1
+VID104,https://img.youtube.com/vi/VID104/maxresdefault.jpg,How to Cook Perfect Pasta Every Time,"Great content, good representation in the thumbnail.",138,0.75,0
+VID105,https://img.youtube.com/vi/VID105/maxresdefault.jpg,How to Cook Perfect Pasta Every Time,False advertising with that thumbnail. Fake content.,124,-0.8,1
+VID106,https://img.youtube.com/vi/VID106/maxresdefault.jpg,Must-Know Tips for Traveling on a Budget,"Informative video, no misleading here.",103,0.85,0
+VID107,https://img.youtube.com/vi/VID107/maxresdefault.jpg,Discover Hidden Gems in Your City,The video does not match the thumbnail at all.,150,-0.85,1
+VID108,https://img.youtube.com/vi/VID108/maxresdefault.jpg,How to Cook Perfect Pasta Every Time,"Informative video, no misleading here.",54,0.7,0
+VID109,https://img.youtube.com/vi/VID109/maxresdefault.jpg,Must-Know Tips for Traveling on a Budget,"Nothing like the thumbnail, this is total clickbait.",98,-0.85,1
+VID110,https://img.youtube.com/vi/VID110/maxresdefault.jpg,Learn Python in 10 Minutes – Is It Possible?,"Exactly what I was looking for, the thumbnail is accurate.",60,0.6,0
+VID111,https://img.youtube.com/vi/VID111/maxresdefault.jpg,Must-Know Tips for Traveling on a Budget,Clickbait! The thumbnail is far from what was in the video.,86,-0.7,1
+VID112,https://img.youtube.com/vi/VID112/maxresdefault.jpg,The Best Life Hacks for 2025!,"Great video, just like the thumbnail shows!",92,0.75,0
+VID113,https://img.youtube.com/vi/VID113/maxresdefault.jpg,Learn Python in 10 Minutes – Is It Possible?,This video is completely misleading!,124,-0.75,1
+VID114,https://img.youtube.com/vi/VID114/maxresdefault.jpg,Unmasking the Truth About Diets,"Clear and honest video, no false thumbnails.",119,0.85,0
+VID115,https://img.youtube.com/vi/VID115/maxresdefault.jpg,Breaking News! You Won't Believe This,"Thumbnail is fake, the video is boring.",99,-0.6,1
+VID116,https://img.youtube.com/vi/VID116/maxresdefault.jpg,Breaking News! You Won't Believe This,"No clickbait, just quality information.",76,0.6,0
+VID117,https://img.youtube.com/vi/VID117/maxresdefault.jpg,Unmasking the Truth About Diets,Thumbnails are just misleading to get views.,131,-0.7,1
+VID118,https://img.youtube.com/vi/VID118/maxresdefault.jpg,How to Cook Perfect Pasta Every Time,"Great video, just like the thumbnail shows!",104,0.7,0
+VID119,https://img.youtube.com/vi/VID119/maxresdefault.jpg,Discover Hidden Gems in Your City,False advertising with that thumbnail. Fake content.,111,-0.75,1
+VID120,https://img.youtube.com/vi/VID120/maxresdefault.jpg,How to Cook Perfect Pasta Every Time,"Great video, just like the thumbnail shows!",108,0.85,0
+VID121,https://img.youtube.com/vi/VID121/maxresdefault.jpg,Discover Hidden Gems in Your City,"Wasted my time, the thumbnail is a lie.",52,-0.85,1
+VID122,https://img.youtube.com/vi/VID122/maxresdefault.jpg,Unmasking the Truth About Diets,Good content! Matches the title and thumbnail perfectly.,148,0.85,0
+VID123,https://img.youtube.com/vi/VID123/maxresdefault.jpg,How to Cook Perfect Pasta Every Time,This video is completely misleading!,63,-0.7,1
+VID124,https://img.youtube.com/vi/VID124/maxresdefault.jpg,How to Cook Perfect Pasta Every Time,"Great video, just like the thumbnail shows!",53,0.8,0
+VID125,https://img.youtube.com/vi/VID125/maxresdefault.jpg,How to Cook Perfect Pasta Every Time,This video is completely misleading!,136,-0.75,1
+VID126,https://img.youtube.com/vi/VID126/maxresdefault.jpg,Unmasking the Truth About Diets,"Great video, just like the thumbnail shows!",57,0.6,0
+VID127,https://img.youtube.com/vi/VID127/maxresdefault.jpg,Breaking News! You Won't Believe This,"Wasted my time, the thumbnail is a lie.",150,-0.7,1
+VID128,https://img.youtube.com/vi/VID128/maxresdefault.jpg,Top 10 Secrets You Didn't Know!,Good content! Matches the title and thumbnail perfectly.,71,0.8,0
+VID129,https://img.youtube.com/vi/VID129/maxresdefault.jpg,How to Cook Perfect Pasta Every Time,"Thumbnail is fake, the video is boring.",140,-0.75,1
+VID130,https://img.youtube.com/vi/VID130/maxresdefault.jpg,The Best Life Hacks for 2025!,Good content! Matches the title and thumbnail perfectly.,38,0.8,0
+VID131,https://img.youtube.com/vi/VID131/maxresdefault.jpg,How to Get a Million Views on YouTube,"Thumbnail is fake, the video is boring.",140,-0.85,1
+VID132,https://img.youtube.com/vi/VID132/maxresdefault.jpg,Learn Python in 10 Minutes – Is It Possible?,Good content! Matches the title and thumbnail perfectly.,117,0.75,0
+VID133,https://img.youtube.com/vi/VID133/maxresdefault.jpg,Must-Know Tips for Traveling on a Budget,False advertising with that thumbnail. Fake content.,103,-0.6,1
+VID134,https://img.youtube.com/vi/VID134/maxresdefault.jpg,Discover Hidden Gems in Your City,"Real value in this video, thumbnail is genuine.",148,0.7,0
+VID135,https://img.youtube.com/vi/VID135/maxresdefault.jpg,Must-Know Tips for Traveling on a Budget,"Wasted my time, the thumbnail is a lie.",77,-0.85,1
+VID136,https://img.youtube.com/vi/VID136/maxresdefault.jpg,Top 10 Secrets You Didn't Know!,"Exactly what I was looking for, the thumbnail is accurate.",100,0.8,0
+VID137,https://img.youtube.com/vi/VID137/maxresdefault.jpg,Breaking News! You Won't Believe This,"Total clickbait, dislike and report.",66,-0.8,1
+VID138,https://img.youtube.com/vi/VID138/maxresdefault.jpg,The Best Life Hacks for 2025!,"Real value in this video, thumbnail is genuine.",139,0.6,0
+VID139,https://img.youtube.com/vi/VID139/maxresdefault.jpg,Top 10 Secrets You Didn't Know!,I was expecting something else based on the thumbnail.,121,-0.6,1
+VID140,https://img.youtube.com/vi/VID140/maxresdefault.jpg,Top 10 Secrets You Didn't Know!,"Exactly what I was looking for, the thumbnail is accurate.",34,0.85,0
+VID141,https://img.youtube.com/vi/VID141/maxresdefault.jpg,Discover Hidden Gems in Your City,False advertising with that thumbnail. Fake content.,55,-0.8,1
+VID142,https://img.youtube.com/vi/VID142/maxresdefault.jpg,How to Cook Perfect Pasta Every Time,"Real value in this video, thumbnail is genuine.",148,0.75,0
+VID143,https://img.youtube.com/vi/VID143/maxresdefault.jpg,Discover Hidden Gems in Your City,False advertising with that thumbnail. Fake content.,91,-0.8,1
+VID144,https://img.youtube.com/vi/VID144/maxresdefault.jpg,The Best Life Hacks for 2025!,"Well done, accurate thumbnail!",126,0.8,0
+VID145,https://img.youtube.com/vi/VID145/maxresdefault.jpg,Top 10 Secrets You Didn't Know!,Thumbnails are just misleading to get views.,94,-0.75,1
+VID146,https://img.youtube.com/vi/VID146/maxresdefault.jpg,Top 10 Secrets You Didn't Know!,Good content! Matches the title and thumbnail perfectly.,102,0.8,0
+VID147,https://img.youtube.com/vi/VID147/maxresdefault.jpg,The Best Life Hacks for 2025!,False advertising with that thumbnail. Fake content.,150,-0.8,1
+VID148,https://img.youtube.com/vi/VID148/maxresdefault.jpg,Discover Hidden Gems in Your City,"Helpful tutorial, just as promised.",139,0.85,0
+VID149,https://img.youtube.com/vi/VID149/maxresdefault.jpg,Unmasking the Truth About Diets,False advertising with that thumbnail. Fake content.,36,-0.75,1
+VID150,https://img.youtube.com/vi/VID150/maxresdefault.jpg,Breaking News! You Won't Believe This,"Clear and honest video, no false thumbnails.",116,0.6,0
+VID151,https://img.youtube.com/vi/VID151/maxresdefault.jpg,The Best Life Hacks for 2025!,Clickbait! The thumbnail is far from what was in the video.,145,-0.8,1
+VID152,https://img.youtube.com/vi/VID152/maxresdefault.jpg,How to Cook Perfect Pasta Every Time,"Exactly what I was looking for, the thumbnail is accurate.",106,0.85,0
+VID153,https://img.youtube.com/vi/VID153/maxresdefault.jpg,How to Get a Million Views on YouTube,This video is completely misleading!,33,-0.8,1
+VID154,https://img.youtube.com/vi/VID154/maxresdefault.jpg,How to Cook Perfect Pasta Every Time,"Well done, accurate thumbnail!",109,0.8,0
+VID155,https://img.youtube.com/vi/VID155/maxresdefault.jpg,Discover Hidden Gems in Your City,I was expecting something else based on the thumbnail.,135,-0.6,1
+VID156,https://img.youtube.com/vi/VID156/maxresdefault.jpg,Top 10 Secrets You Didn't Know!,"Exactly what I was looking for, the thumbnail is accurate.",133,0.75,0
+VID157,https://img.youtube.com/vi/VID157/maxresdefault.jpg,Top 10 Secrets You Didn't Know!,"Total clickbait, dislike and report.",55,-0.6,1
+VID158,https://img.youtube.com/vi/VID158/maxresdefault.jpg,Discover Hidden Gems in Your City,Good content! Matches the title and thumbnail perfectly.,62,0.75,0
+VID159,https://img.youtube.com/vi/VID159/maxresdefault.jpg,How to Cook Perfect Pasta Every Time,The video does not match the thumbnail at all.,97,-0.7,1
+VID160,https://img.youtube.com/vi/VID160/maxresdefault.jpg,Unbelievable Trick to Make Money!,"Exactly what I was looking for, the thumbnail is accurate.",53,0.7,0
+VID161,https://img.youtube.com/vi/VID161/maxresdefault.jpg,Discover Hidden Gems in Your City,"Thumbnail is fake, the video is boring.",32,-0.75,1
+VID162,https://img.youtube.com/vi/VID162/maxresdefault.jpg,Learn Python in 10 Minutes – Is It Possible?,"Clear and honest video, no false thumbnails.",38,0.75,0
+VID163,https://img.youtube.com/vi/VID163/maxresdefault.jpg,The Best Life Hacks for 2025!,Thumbnails are just misleading to get views.,56,-0.8,1
+VID164,https://img.youtube.com/vi/VID164/maxresdefault.jpg,Unbelievable Trick to Make Money!,"Great content, good representation in the thumbnail.",110,0.6,0
+VID165,https://img.youtube.com/vi/VID165/maxresdefault.jpg,Top 10 Secrets You Didn't Know!,Clickbait! The thumbnail is far from what was in the video.,132,-0.8,1
+VID166,https://img.youtube.com/vi/VID166/maxresdefault.jpg,How to Cook Perfect Pasta Every Time,"Helpful tutorial, just as promised.",144,0.6,0
+VID167,https://img.youtube.com/vi/VID167/maxresdefault.jpg,Top 10 Secrets You Didn't Know!,"Wasted my time, the thumbnail is a lie.",93,-0.7,1
+VID168,https://img.youtube.com/vi/VID168/maxresdefault.jpg,Learn Python in 10 Minutes – Is It Possible?,Good content! Matches the title and thumbnail perfectly.,66,0.7,0
+VID169,https://img.youtube.com/vi/VID169/maxresdefault.jpg,Top 10 Secrets You Didn't Know!,I was expecting something else based on the thumbnail.,95,-0.6,1
+VID170,https://img.youtube.com/vi/VID170/maxresdefault.jpg,How to Get a Million Views on YouTube,"Exactly what I was looking for, the thumbnail is accurate.",30,0.7,0
+VID171,https://img.youtube.com/vi/VID171/maxresdefault.jpg,Top 10 Secrets You Didn't Know!,False advertising with that thumbnail. Fake content.,83,-0.85,1
+VID172,https://img.youtube.com/vi/VID172/maxresdefault.jpg,Top 10 Secrets You Didn't Know!,"Clear and honest video, no false thumbnails.",31,0.75,0
+VID173,https://img.youtube.com/vi/VID173/maxresdefault.jpg,How to Cook Perfect Pasta Every Time,I was expecting something else based on the thumbnail.,135,-0.6,1
+VID174,https://img.youtube.com/vi/VID174/maxresdefault.jpg,Unbelievable Trick to Make Money!,"No clickbait, just quality information.",71,0.85,0
+VID175,https://img.youtube.com/vi/VID175/maxresdefault.jpg,Learn Python in 10 Minutes – Is It Possible?,False advertising with that thumbnail. Fake content.,110,-0.85,1
+VID176,https://img.youtube.com/vi/VID176/maxresdefault.jpg,Learn Python in 10 Minutes – Is It Possible?,"Clear and honest video, no false thumbnails.",77,0.8,0
+VID177,https://img.youtube.com/vi/VID177/maxresdefault.jpg,Top 10 Secrets You Didn't Know!,I was expecting something else based on the thumbnail.,75,-0.8,1
+VID178,https://img.youtube.com/vi/VID178/maxresdefault.jpg,The Best Life Hacks for 2025!,"Informative video, no misleading here.",65,0.85,0
+VID179,https://img.youtube.com/vi/VID179/maxresdefault.jpg,How to Get a Million Views on YouTube,The video does not match the thumbnail at all.,45,-0.8,1
+VID180,https://img.youtube.com/vi/VID180/maxresdefault.jpg,How to Get a Million Views on YouTube,"Helpful tutorial, just as promised.",47,0.8,0
+VID181,https://img.youtube.com/vi/VID181/maxresdefault.jpg,Unbelievable Trick to Make Money!,The video does not match the thumbnail at all.,76,-0.8,1
+VID182,https://img.youtube.com/vi/VID182/maxresdefault.jpg,Unbelievable Trick to Make Money!,"Real value in this video, thumbnail is genuine.",134,0.8,0
+VID183,https://img.youtube.com/vi/VID183/maxresdefault.jpg,How to Get a Million Views on YouTube,"Nothing like the thumbnail, this is total clickbait.",87,-0.7,1
+VID184,https://img.youtube.com/vi/VID184/maxresdefault.jpg,The Best Life Hacks for 2025!,Good content! Matches the title and thumbnail perfectly.,137,0.8,0
+VID185,https://img.youtube.com/vi/VID185/maxresdefault.jpg,How to Get a Million Views on YouTube,The video does not match the thumbnail at all.,129,-0.75,1
+VID186,https://img.youtube.com/vi/VID186/maxresdefault.jpg,How to Get a Million Views on YouTube,"Real value in this video, thumbnail is genuine.",46,0.7,0
+VID187,https://img.youtube.com/vi/VID187/maxresdefault.jpg,Learn Python in 10 Minutes – Is It Possible?,Thumbnails are just misleading to get views.,71,-0.8,1
+VID188,https://img.youtube.com/vi/VID188/maxresdefault.jpg,How to Cook Perfect Pasta Every Time,"Informative video, no misleading here.",65,0.75,0
+VID189,https://img.youtube.com/vi/VID189/maxresdefault.jpg,Must-Know Tips for Traveling on a Budget,"Total clickbait, dislike and report.",115,-0.75,1
+VID190,https://img.youtube.com/vi/VID190/maxresdefault.jpg,How to Get a Million Views on YouTube,"Clear and honest video, no false thumbnails.",41,0.75,0
+VID191,https://img.youtube.com/vi/VID191/maxresdefault.jpg,Unbelievable Trick to Make Money!,The video does not match the thumbnail at all.,86,-0.8,1
+VID192,https://img.youtube.com/vi/VID192/maxresdefault.jpg,Discover Hidden Gems in Your City,"Helpful tutorial, just as promised.",92,0.6,0
+VID193,https://img.youtube.com/vi/VID193/maxresdefault.jpg,Breaking News! You Won't Believe This,This video is completely misleading!,137,-0.6,1
+VID194,https://img.youtube.com/vi/VID194/maxresdefault.jpg,Breaking News! You Won't Believe This,"Great video, just like the thumbnail shows!",120,0.75,0
+VID195,https://img.youtube.com/vi/VID195/maxresdefault.jpg,The Best Life Hacks for 2025!,"Total clickbait, dislike and report.",109,-0.7,1
+VID196,https://img.youtube.com/vi/VID196/maxresdefault.jpg,Top 10 Secrets You Didn't Know!,"Great content, good representation in the thumbnail.",137,0.85,0
+VID197,https://img.youtube.com/vi/VID197/maxresdefault.jpg,The Best Life Hacks for 2025!,Thumbnails are just misleading to get views.,59,-0.8,1
+VID198,https://img.youtube.com/vi/VID198/maxresdefault.jpg,Unbelievable Trick to Make Money!,"Well done, accurate thumbnail!",140,0.85,0
+VID199,https://img.youtube.com/vi/VID199/maxresdefault.jpg,Breaking News! You Won't Believe This,False advertising with that thumbnail. Fake content.,108,-0.8,1
+VID200,https://img.youtube.com/vi/VID200/maxresdefault.jpg,How to Get a Million Views on YouTube,"Great content, good representation in the thumbnail.",130,0.7,0
+VID201,https://img.youtube.com/vi/VID201/maxresdefault.jpg,Unbelievable Trick to Make Money!,This video is completely misleading!,92,-0.85,1
+VID202,https://img.youtube.com/vi/VID202/maxresdefault.jpg,Unbelievable Trick to Make Money!,"Real value in this video, thumbnail is genuine.",129,0.85,0
+VID203,https://img.youtube.com/vi/VID203/maxresdefault.jpg,Unmasking the Truth About Diets,"Wasted my time, the thumbnail is a lie.",129,-0.85,1
+VID204,https://img.youtube.com/vi/VID204/maxresdefault.jpg,Breaking News! You Won't Believe This,"No clickbait, just quality information.",61,0.6,0
+VID205,https://img.youtube.com/vi/VID205/maxresdefault.jpg,Breaking News! You Won't Believe This,Clickbait! The thumbnail is far from what was in the video.,64,-0.7,1
+VID206,https://img.youtube.com/vi/VID206/maxresdefault.jpg,How to Cook Perfect Pasta Every Time,"Exactly what I was looking for, the thumbnail is accurate.",78,0.6,0
+VID207,https://img.youtube.com/vi/VID207/maxresdefault.jpg,Top 10 Secrets You Didn't Know!,"Wasted my time, the thumbnail is a lie.",105,-0.85,1
+VID208,https://img.youtube.com/vi/VID208/maxresdefault.jpg,Unbelievable Trick to Make Money!,"Great content, good representation in the thumbnail.",32,0.6,0
+VID209,https://img.youtube.com/vi/VID209/maxresdefault.jpg,The Best Life Hacks for 2025!,"Thumbnail is fake, the video is boring.",83,-0.8,1
+VID210,https://img.youtube.com/vi/VID210/maxresdefault.jpg,Unmasking the Truth About Diets,"Real value in this video, thumbnail is genuine.",141,0.8,0
+VID211,https://img.youtube.com/vi/VID211/maxresdefault.jpg,Breaking News! You Won't Believe This,Clickbait! The thumbnail is far from what was in the video.,51,-0.7,1
+VID212,https://img.youtube.com/vi/VID212/maxresdefault.jpg,Unbelievable Trick to Make Money!,"Clear and honest video, no false thumbnails.",138,0.8,0
+VID213,https://img.youtube.com/vi/VID213/maxresdefault.jpg,Breaking News! You Won't Believe This,"Total clickbait, dislike and report.",47,-0.6,1
+VID214,https://img.youtube.com/vi/VID214/maxresdefault.jpg,The Best Life Hacks for 2025!,"Clear and honest video, no false thumbnails.",116,0.85,0
+VID215,https://img.youtube.com/vi/VID215/maxresdefault.jpg,Must-Know Tips for Traveling on a Budget,Clickbait! The thumbnail is far from what was in the video.,107,-0.6,1
+VID216,https://img.youtube.com/vi/VID216/maxresdefault.jpg,How to Get a Million Views on YouTube,Good content! Matches the title and thumbnail perfectly.,47,0.85,0
+VID217,https://img.youtube.com/vi/VID217/maxresdefault.jpg,Learn Python in 10 Minutes – Is It Possible?,"Total clickbait, dislike and report.",133,-0.6,1
+VID218,https://img.youtube.com/vi/VID218/maxresdefault.jpg,How to Get a Million Views on YouTube,"Informative video, no misleading here.",77,0.75,0
+VID219,https://img.youtube.com/vi/VID219/maxresdefault.jpg,Must-Know Tips for Traveling on a Budget,"Wasted my time, the thumbnail is a lie.",82,-0.7,1
+VID220,https://img.youtube.com/vi/VID220/maxresdefault.jpg,Must-Know Tips for Traveling on a Budget,Good content! Matches the title and thumbnail perfectly.,109,0.8,0
+VID221,https://img.youtube.com/vi/VID221/maxresdefault.jpg,Unmasking the Truth About Diets,This video is completely misleading!,112,-0.6,1
+VID222,https://img.youtube.com/vi/VID222/maxresdefault.jpg,Learn Python in 10 Minutes – Is It Possible?,"Well done, accurate thumbnail!",38,0.8,0
+VID223,https://img.youtube.com/vi/VID223/maxresdefault.jpg,How to Cook Perfect Pasta Every Time,"Thumbnail is fake, the video is boring.",92,-0.6,1
+VID224,https://img.youtube.com/vi/VID224/maxresdefault.jpg,Top 10 Secrets You Didn't Know!,"Helpful tutorial, just as promised.",95,0.7,0
+VID225,https://img.youtube.com/vi/VID225/maxresdefault.jpg,Must-Know Tips for Traveling on a Budget,"Nothing like the thumbnail, this is total clickbait.",48,-0.8,1
+VID226,https://img.youtube.com/vi/VID226/maxresdefault.jpg,Must-Know Tips for Traveling on a Budget,Good content! Matches the title and thumbnail perfectly.,59,0.6,0
+VID227,https://img.youtube.com/vi/VID227/maxresdefault.jpg,Breaking News! You Won't Believe This,"Thumbnail is fake, the video is boring.",57,-0.7,1
+VID228,https://img.youtube.com/vi/VID228/maxresdefault.jpg,Unmasking the Truth About Diets,"Great content, good representation in the thumbnail.",60,0.8,0
+VID229,https://img.youtube.com/vi/VID229/maxresdefault.jpg,The Best Life Hacks for 2025!,This video is completely misleading!,34,-0.85,1
+VID230,https://img.youtube.com/vi/VID230/maxresdefault.jpg,Unbelievable Trick to Make Money!,"Informative video, no misleading here.",80,0.85,0
+VID231,https://img.youtube.com/vi/VID231/maxresdefault.jpg,Discover Hidden Gems in Your City,I was expecting something else based on the thumbnail.,51,-0.75,1
+VID232,https://img.youtube.com/vi/VID232/maxresdefault.jpg,Discover Hidden Gems in Your City,"Great content, good representation in the thumbnail.",76,0.6,0
+VID233,https://img.youtube.com/vi/VID233/maxresdefault.jpg,The Best Life Hacks for 2025!,False advertising with that thumbnail. Fake content.,51,-0.75,1
+VID234,https://img.youtube.com/vi/VID234/maxresdefault.jpg,The Best Life Hacks for 2025!,Good content! Matches the title and thumbnail perfectly.,97,0.8,0
+VID235,https://img.youtube.com/vi/VID235/maxresdefault.jpg,Unbelievable Trick to Make Money!,"Thumbnail is fake, the video is boring.",103,-0.85,1
+VID236,https://img.youtube.com/vi/VID236/maxresdefault.jpg,Breaking News! You Won't Believe This,"Well done, accurate thumbnail!",58,0.85,0
+VID237,https://img.youtube.com/vi/VID237/maxresdefault.jpg,How to Get a Million Views on YouTube,"Wasted my time, the thumbnail is a lie.",112,-0.7,1
+VID238,https://img.youtube.com/vi/VID238/maxresdefault.jpg,Discover Hidden Gems in Your City,"Clear and honest video, no false thumbnails.",34,0.6,0
+VID239,https://img.youtube.com/vi/VID239/maxresdefault.jpg,Top 10 Secrets You Didn't Know!,"Wasted my time, the thumbnail is a lie.",47,-0.85,1
+VID240,https://img.youtube.com/vi/VID240/maxresdefault.jpg,Learn Python in 10 Minutes – Is It Possible?,"No clickbait, just quality information.",73,0.75,0
+VID241,https://img.youtube.com/vi/VID241/maxresdefault.jpg,Unmasking the Truth About Diets,I was expecting something else based on the thumbnail.,43,-0.75,1
+VID242,https://img.youtube.com/vi/VID242/maxresdefault.jpg,How to Get a Million Views on YouTube,"Clear and honest video, no false thumbnails.",104,0.6,0
+VID243,https://img.youtube.com/vi/VID243/maxresdefault.jpg,Breaking News! You Won't Believe This,"Nothing like the thumbnail, this is total clickbait.",95,-0.8,1
+VID244,https://img.youtube.com/vi/VID244/maxresdefault.jpg,Discover Hidden Gems in Your City,"No clickbait, just quality information.",76,0.85,0
+VID245,https://img.youtube.com/vi/VID245/maxresdefault.jpg,The Best Life Hacks for 2025!,This video is completely misleading!,75,-0.75,1
+VID246,https://img.youtube.com/vi/VID246/maxresdefault.jpg,Breaking News! You Won't Believe This,"Helpful tutorial, just as promised.",148,0.75,0
+VID247,https://img.youtube.com/vi/VID247/maxresdefault.jpg,Must-Know Tips for Traveling on a Budget,I was expecting something else based on the thumbnail.,119,-0.75,1
+VID248,https://img.youtube.com/vi/VID248/maxresdefault.jpg,Must-Know Tips for Traveling on a Budget,"Exactly what I was looking for, the thumbnail is accurate.",116,0.7,0
+VID249,https://img.youtube.com/vi/VID249/maxresdefault.jpg,How to Get a Million Views on YouTube,This video is completely misleading!,137,-0.8,1
+VID250,https://img.youtube.com/vi/VID250/maxresdefault.jpg,How to Cook Perfect Pasta Every Time,"Well done, accurate thumbnail!",58,0.7,0
+VID251,https://img.youtube.com/vi/VID251/maxresdefault.jpg,Top 10 Secrets You Didn't Know!,"Thumbnail is fake, the video is boring.",37,-0.7,1
+VID252,https://img.youtube.com/vi/VID252/maxresdefault.jpg,Top 10 Secrets You Didn't Know!,"Informative video, no misleading here.",70,0.7,0
+VID253,https://img.youtube.com/vi/VID253/maxresdefault.jpg,Top 10 Secrets You Didn't Know!,Clickbait! The thumbnail is far from what was in the video.,42,-0.7,1
+VID254,https://img.youtube.com/vi/VID254/maxresdefault.jpg,Unbelievable Trick to Make Money!,"Informative video, no misleading here.",67,0.6,0
+VID255,https://img.youtube.com/vi/VID255/maxresdefault.jpg,The Best Life Hacks for 2025!,"Wasted my time, the thumbnail is a lie.",136,-0.7,1
+VID256,https://img.youtube.com/vi/VID256/maxresdefault.jpg,Learn Python in 10 Minutes – Is It Possible?,"Helpful tutorial, just as promised.",123,0.6,0
+VID257,https://img.youtube.com/vi/VID257/maxresdefault.jpg,Unmasking the Truth About Diets,"Total clickbait, dislike and report.",102,-0.7,1
+VID258,https://img.youtube.com/vi/VID258/maxresdefault.jpg,Unbelievable Trick to Make Money!,"Great video, just like the thumbnail shows!",68,0.7,0
+VID259,https://img.youtube.com/vi/VID259/maxresdefault.jpg,Breaking News! You Won't Believe This,"Nothing like the thumbnail, this is total clickbait.",62,-0.6,1
+VID260,https://img.youtube.com/vi/VID260/maxresdefault.jpg,Breaking News! You Won't Believe This,"Great content, good representation in the thumbnail.",45,0.6,0
+VID261,https://img.youtube.com/vi/VID261/maxresdefault.jpg,The Best Life Hacks for 2025!,Clickbait! The thumbnail is far from what was in the video.,52,-0.75,1
+VID262,https://img.youtube.com/vi/VID262/maxresdefault.jpg,Breaking News! You Won't Believe This,"Great content, good representation in the thumbnail.",87,0.85,0
+VID263,https://img.youtube.com/vi/VID263/maxresdefault.jpg,Learn Python in 10 Minutes – Is It Possible?,Clickbait! The thumbnail is far from what was in the video.,99,-0.6,1
+VID264,https://img.youtube.com/vi/VID264/maxresdefault.jpg,Unbelievable Trick to Make Money!,"Well done, accurate thumbnail!",90,0.6,0
+VID265,https://img.youtube.com/vi/VID265/maxresdefault.jpg,Must-Know Tips for Traveling on a Budget,"Nothing like the thumbnail, this is total clickbait.",43,-0.6,1
+VID266,https://img.youtube.com/vi/VID266/maxresdefault.jpg,Unbelievable Trick to Make Money!,"No clickbait, just quality information.",66,0.7,0
+VID267,https://img.youtube.com/vi/VID267/maxresdefault.jpg,Unbelievable Trick to Make Money!,"Nothing like the thumbnail, this is total clickbait.",78,-0.85,1
+VID268,https://img.youtube.com/vi/VID268/maxresdefault.jpg,Learn Python in 10 Minutes – Is It Possible?,"Well done, accurate thumbnail!",120,0.75,0
+VID269,https://img.youtube.com/vi/VID269/maxresdefault.jpg,Unbelievable Trick to Make Money!,"Nothing like the thumbnail, this is total clickbait.",126,-0.85,1
+VID270,https://img.youtube.com/vi/VID270/maxresdefault.jpg,Learn Python in 10 Minutes – Is It Possible?,"Well done, accurate thumbnail!",32,0.7,0
+VID271,https://img.youtube.com/vi/VID271/maxresdefault.jpg,Must-Know Tips for Traveling on a Budget,I was expecting something else based on the thumbnail.,51,-0.85,1
+VID272,https://img.youtube.com/vi/VID272/maxresdefault.jpg,How to Cook Perfect Pasta Every Time,"Exactly what I was looking for, the thumbnail is accurate.",135,0.7,0
+VID273,https://img.youtube.com/vi/VID273/maxresdefault.jpg,Unmasking the Truth About Diets,"Wasted my time, the thumbnail is a lie.",111,-0.8,1
+VID274,https://img.youtube.com/vi/VID274/maxresdefault.jpg,Discover Hidden Gems in Your City,"Exactly what I was looking for, the thumbnail is accurate.",82,0.85,0
+VID275,https://img.youtube.com/vi/VID275/maxresdefault.jpg,Learn Python in 10 Minutes – Is It Possible?,Thumbnails are just misleading to get views.,135,-0.8,1
+VID276,https://img.youtube.com/vi/VID276/maxresdefault.jpg,Breaking News! You Won't Believe This,"Helpful tutorial, just as promised.",100,0.7,0
+VID277,https://img.youtube.com/vi/VID277/maxresdefault.jpg,Learn Python in 10 Minutes – Is It Possible?,I was expecting something else based on the thumbnail.,75,-0.75,1
+VID278,https://img.youtube.com/vi/VID278/maxresdefault.jpg,How to Get a Million Views on YouTube,Good content! Matches the title and thumbnail perfectly.,112,0.8,0
+VID279,https://img.youtube.com/vi/VID279/maxresdefault.jpg,Unbelievable Trick to Make Money!,False advertising with that thumbnail. Fake content.,130,-0.8,1
+VID280,https://img.youtube.com/vi/VID280/maxresdefault.jpg,Discover Hidden Gems in Your City,"Well done, accurate thumbnail!",114,0.7,0
+VID281,https://img.youtube.com/vi/VID281/maxresdefault.jpg,Top 10 Secrets You Didn't Know!,"Thumbnail is fake, the video is boring.",114,-0.75,1
+VID282,https://img.youtube.com/vi/VID282/maxresdefault.jpg,Breaking News! You Won't Believe This,Good content! Matches the title and thumbnail perfectly.,63,0.8,0
+VID283,https://img.youtube.com/vi/VID283/maxresdefault.jpg,Must-Know Tips for Traveling on a Budget,"Nothing like the thumbnail, this is total clickbait.",67,-0.8,1
+VID284,https://img.youtube.com/vi/VID284/maxresdefault.jpg,Unmasking the Truth About Diets,"Well done, accurate thumbnail!",37,0.85,0
+VID285,https://img.youtube.com/vi/VID285/maxresdefault.jpg,Must-Know Tips for Traveling on a Budget,False advertising with that thumbnail. Fake content.,63,-0.8,1
+VID286,https://img.youtube.com/vi/VID286/maxresdefault.jpg,Discover Hidden Gems in Your City,"No clickbait, just quality information.",61,0.7,0
+VID287,https://img.youtube.com/vi/VID287/maxresdefault.jpg,How to Get a Million Views on YouTube,The video does not match the thumbnail at all.,125,-0.85,1
+VID288,https://img.youtube.com/vi/VID288/maxresdefault.jpg,How to Cook Perfect Pasta Every Time,"Exactly what I was looking for, the thumbnail is accurate.",134,0.7,0
+VID289,https://img.youtube.com/vi/VID289/maxresdefault.jpg,Unbelievable Trick to Make Money!,"Total clickbait, dislike and report.",34,-0.7,1
+VID290,https://img.youtube.com/vi/VID290/maxresdefault.jpg,Must-Know Tips for Traveling on a Budget,"No clickbait, just quality information.",112,0.85,0
+VID291,https://img.youtube.com/vi/VID291/maxresdefault.jpg,Breaking News! You Won't Believe This,I was expecting something else based on the thumbnail.,128,-0.75,1
+VID292,https://img.youtube.com/vi/VID292/maxresdefault.jpg,Discover Hidden Gems in Your City,"Exactly what I was looking for, the thumbnail is accurate.",74,0.7,0
+VID293,https://img.youtube.com/vi/VID293/maxresdefault.jpg,How to Get a Million Views on YouTube,"Wasted my time, the thumbnail is a lie.",64,-0.85,1
+VID294,https://img.youtube.com/vi/VID294/maxresdefault.jpg,Top 10 Secrets You Didn't Know!,"No clickbait, just quality information.",148,0.7,0
+VID295,https://img.youtube.com/vi/VID295/maxresdefault.jpg,Unbelievable Trick to Make Money!,"Nothing like the thumbnail, this is total clickbait.",146,-0.6,1
+VID296,https://img.youtube.com/vi/VID296/maxresdefault.jpg,Top 10 Secrets You Didn't Know!,"Well done, accurate thumbnail!",63,0.85,0
+VID297,https://img.youtube.com/vi/VID297/maxresdefault.jpg,Unbelievable Trick to Make Money!,"Total clickbait, dislike and report.",45,-0.6,1
+VID298,https://img.youtube.com/vi/VID298/maxresdefault.jpg,Unmasking the Truth About Diets,"Informative video, no misleading here.",55,0.75,0
+VID299,https://img.youtube.com/vi/VID299/maxresdefault.jpg,How to Cook Perfect Pasta Every Time,The video does not match the thumbnail at all.,70,-0.7,1
+VID300,https://img.youtube.com/vi/VID300/maxresdefault.jpg,Unmasking the Truth About Diets,"Clear and honest video, no false thumbnails.",75,0.8,0
+VID301,https://img.youtube.com/vi/VID301/maxresdefault.jpg,How to Cook Perfect Pasta Every Time,This video is completely misleading!,31,-0.7,1
+VID302,https://img.youtube.com/vi/VID302/maxresdefault.jpg,Top 10 Secrets You Didn't Know!,Good content! Matches the title and thumbnail perfectly.,59,0.8,0
+VID303,https://img.youtube.com/vi/VID303/maxresdefault.jpg,How to Get a Million Views on YouTube,Thumbnails are just misleading to get views.,32,-0.75,1
+VID304,https://img.youtube.com/vi/VID304/maxresdefault.jpg,Discover Hidden Gems in Your City,"Clear and honest video, no false thumbnails.",98,0.7,0
+VID305,https://img.youtube.com/vi/VID305/maxresdefault.jpg,Unmasking the Truth About Diets,"Thumbnail is fake, the video is boring.",120,-0.75,1
+VID306,https://img.youtube.com/vi/VID306/maxresdefault.jpg,Unbelievable Trick to Make Money!,Good content! Matches the title and thumbnail perfectly.,106,0.85,0
+VID307,https://img.youtube.com/vi/VID307/maxresdefault.jpg,Unbelievable Trick to Make Money!,False advertising with that thumbnail. Fake content.,149,-0.8,1
+VID308,https://img.youtube.com/vi/VID308/maxresdefault.jpg,Learn Python in 10 Minutes – Is It Possible?,"Clear and honest video, no false thumbnails.",131,0.6,0
+VID309,https://img.youtube.com/vi/VID309/maxresdefault.jpg,Must-Know Tips for Traveling on a Budget,This video is completely misleading!,107,-0.8,1
+VID310,https://img.youtube.com/vi/VID310/maxresdefault.jpg,Unbelievable Trick to Make Money!,"No clickbait, just quality information.",120,0.85,0
+VID311,https://img.youtube.com/vi/VID311/maxresdefault.jpg,Must-Know Tips for Traveling on a Budget,This video is completely misleading!,143,-0.8,1
+VID312,https://img.youtube.com/vi/VID312/maxresdefault.jpg,Breaking News! You Won't Believe This,"Clear and honest video, no false thumbnails.",112,0.85,0
+VID313,https://img.youtube.com/vi/VID313/maxresdefault.jpg,Unbelievable Trick to Make Money!,"Wasted my time, the thumbnail is a lie.",104,-0.6,1
+VID314,https://img.youtube.com/vi/VID314/maxresdefault.jpg,Top 10 Secrets You Didn't Know!,Good content! Matches the title and thumbnail perfectly.,138,0.85,0
+VID315,https://img.youtube.com/vi/VID315/maxresdefault.jpg,How to Get a Million Views on YouTube,False advertising with that thumbnail. Fake content.,148,-0.75,1
+VID316,https://img.youtube.com/vi/VID316/maxresdefault.jpg,The Best Life Hacks for 2025!,"Well done, accurate thumbnail!",132,0.8,0
+VID317,https://img.youtube.com/vi/VID317/maxresdefault.jpg,Unbelievable Trick to Make Money!,This video is completely misleading!,106,-0.8,1
+VID318,https://img.youtube.com/vi/VID318/maxresdefault.jpg,Learn Python in 10 Minutes – Is It Possible?,"Great content, good representation in the thumbnail.",95,0.6,0
+VID319,https://img.youtube.com/vi/VID319/maxresdefault.jpg,Top 10 Secrets You Didn't Know!,"Total clickbait, dislike and report.",133,-0.6,1
+VID320,https://img.youtube.com/vi/VID320/maxresdefault.jpg,Unbelievable Trick to Make Money!,"No clickbait, just quality information.",147,0.6,0
+VID321,https://img.youtube.com/vi/VID321/maxresdefault.jpg,How to Get a Million Views on YouTube,The video does not match the thumbnail at all.,40,-0.75,1
+VID322,https://img.youtube.com/vi/VID322/maxresdefault.jpg,Top 10 Secrets You Didn't Know!,"No clickbait, just quality information.",137,0.7,0
+VID323,https://img.youtube.com/vi/VID323/maxresdefault.jpg,Learn Python in 10 Minutes – Is It Possible?,This video is completely misleading!,31,-0.85,1
+VID324,https://img.youtube.com/vi/VID324/maxresdefault.jpg,Unbelievable Trick to Make Money!,"Great video, just like the thumbnail shows!",60,0.75,0
+VID325,https://img.youtube.com/vi/VID325/maxresdefault.jpg,How to Get a Million Views on YouTube,False advertising with that thumbnail. Fake content.,42,-0.6,1
+VID326,https://img.youtube.com/vi/VID326/maxresdefault.jpg,Unmasking the Truth About Diets,"Great video, just like the thumbnail shows!",108,0.85,0
+VID327,https://img.youtube.com/vi/VID327/maxresdefault.jpg,How to Get a Million Views on YouTube,False advertising with that thumbnail. Fake content.,69,-0.7,1
+VID328,https://img.youtube.com/vi/VID328/maxresdefault.jpg,Must-Know Tips for Traveling on a Budget,"Great video, just like the thumbnail shows!",54,0.7,0
+VID329,https://img.youtube.com/vi/VID329/maxresdefault.jpg,Breaking News! You Won't Believe This,False advertising with that thumbnail. Fake content.,134,-0.85,1
+VID330,https://img.youtube.com/vi/VID330/maxresdefault.jpg,Unmasking the Truth About Diets,"Helpful tutorial, just as promised.",147,0.8,0
+VID331,https://img.youtube.com/vi/VID331/maxresdefault.jpg,How to Cook Perfect Pasta Every Time,"Total clickbait, dislike and report.",86,-0.85,1
+VID332,https://img.youtube.com/vi/VID332/maxresdefault.jpg,Unbelievable Trick to Make Money!,"Informative video, no misleading here.",65,0.85,0
+VID333,https://img.youtube.com/vi/VID333/maxresdefault.jpg,Learn Python in 10 Minutes – Is It Possible?,"Nothing like the thumbnail, this is total clickbait.",119,-0.75,1
+VID334,https://img.youtube.com/vi/VID334/maxresdefault.jpg,Breaking News! You Won't Believe This,"Helpful tutorial, just as promised.",113,0.85,0
+VID335,https://img.youtube.com/vi/VID335/maxresdefault.jpg,Learn Python in 10 Minutes – Is It Possible?,This video is completely misleading!,51,-0.85,1
+VID336,https://img.youtube.com/vi/VID336/maxresdefault.jpg,Breaking News! You Won't Believe This,"Great content, good representation in the thumbnail.",116,0.75,0
+VID337,https://img.youtube.com/vi/VID337/maxresdefault.jpg,Unmasking the Truth About Diets,The video does not match the thumbnail at all.,101,-0.8,1
+VID338,https://img.youtube.com/vi/VID338/maxresdefault.jpg,Must-Know Tips for Traveling on a Budget,"Informative video, no misleading here.",107,0.85,0
+VID339,https://img.youtube.com/vi/VID339/maxresdefault.jpg,Discover Hidden Gems in Your City,"Nothing like the thumbnail, this is total clickbait.",48,-0.75,1
+VID340,https://img.youtube.com/vi/VID340/maxresdefault.jpg,Discover Hidden Gems in Your City,"Helpful tutorial, just as promised.",68,0.85,0
+VID341,https://img.youtube.com/vi/VID341/maxresdefault.jpg,The Best Life Hacks for 2025!,"Wasted my time, the thumbnail is a lie.",111,-0.85,1
+VID342,https://img.youtube.com/vi/VID342/maxresdefault.jpg,Breaking News! You Won't Believe This,"Informative video, no misleading here.",127,0.85,0
+VID343,https://img.youtube.com/vi/VID343/maxresdefault.jpg,Top 10 Secrets You Didn't Know!,"Nothing like the thumbnail, this is total clickbait.",104,-0.75,1
+VID344,https://img.youtube.com/vi/VID344/maxresdefault.jpg,Breaking News! You Won't Believe This,"No clickbait, just quality information.",81,0.8,0
+VID345,https://img.youtube.com/vi/VID345/maxresdefault.jpg,Must-Know Tips for Traveling on a Budget,"Nothing like the thumbnail, this is total clickbait.",83,-0.7,1
+VID346,https://img.youtube.com/vi/VID346/maxresdefault.jpg,Must-Know Tips for Traveling on a Budget,"Great content, good representation in the thumbnail.",32,0.8,0
+VID347,https://img.youtube.com/vi/VID347/maxresdefault.jpg,How to Get a Million Views on YouTube,Clickbait! The thumbnail is far from what was in the video.,140,-0.6,1
+VID348,https://img.youtube.com/vi/VID348/maxresdefault.jpg,How to Get a Million Views on YouTube,"Great content, good representation in the thumbnail.",80,0.75,0
+VID349,https://img.youtube.com/vi/VID349/maxresdefault.jpg,Unmasking the Truth About Diets,This video is completely misleading!,37,-0.85,1
+VID350,https://img.youtube.com/vi/VID350/maxresdefault.jpg,How to Cook Perfect Pasta Every Time,"No clickbait, just quality information.",40,0.75,0
+VID351,https://img.youtube.com/vi/VID351/maxresdefault.jpg,How to Get a Million Views on YouTube,False advertising with that thumbnail. Fake content.,119,-0.8,1
+VID352,https://img.youtube.com/vi/VID352/maxresdefault.jpg,Breaking News! You Won't Believe This,"Great video, just like the thumbnail shows!",55,0.75,0
+VID353,https://img.youtube.com/vi/VID353/maxresdefault.jpg,The Best Life Hacks for 2025!,"Thumbnail is fake, the video is boring.",54,-0.85,1
+VID354,https://img.youtube.com/vi/VID354/maxresdefault.jpg,Must-Know Tips for Traveling on a Budget,"No clickbait, just quality information.",35,0.8,0
+VID355,https://img.youtube.com/vi/VID355/maxresdefault.jpg,How to Cook Perfect Pasta Every Time,"Thumbnail is fake, the video is boring.",100,-0.85,1
+VID356,https://img.youtube.com/vi/VID356/maxresdefault.jpg,How to Cook Perfect Pasta Every Time,"Informative video, no misleading here.",150,0.6,0
+VID357,https://img.youtube.com/vi/VID357/maxresdefault.jpg,Discover Hidden Gems in Your City,The video does not match the thumbnail at all.,31,-0.6,1
+VID358,https://img.youtube.com/vi/VID358/maxresdefault.jpg,How to Cook Perfect Pasta Every Time,Good content! Matches the title and thumbnail perfectly.,112,0.75,0
+VID359,https://img.youtube.com/vi/VID359/maxresdefault.jpg,Learn Python in 10 Minutes – Is It Possible?,False advertising with that thumbnail. Fake content.,128,-0.75,1
+VID360,https://img.youtube.com/vi/VID360/maxresdefault.jpg,Top 10 Secrets You Didn't Know!,"Well done, accurate thumbnail!",30,0.7,0
+VID361,https://img.youtube.com/vi/VID361/maxresdefault.jpg,Unbelievable Trick to Make Money!,"Wasted my time, the thumbnail is a lie.",31,-0.7,1
+VID362,https://img.youtube.com/vi/VID362/maxresdefault.jpg,Discover Hidden Gems in Your City,"Real value in this video, thumbnail is genuine.",118,0.6,0
+VID363,https://img.youtube.com/vi/VID363/maxresdefault.jpg,Unmasking the Truth About Diets,Thumbnails are just misleading to get views.,82,-0.6,1
+VID364,https://img.youtube.com/vi/VID364/maxresdefault.jpg,Breaking News! You Won't Believe This,Good content! Matches the title and thumbnail perfectly.,35,0.6,0
+VID365,https://img.youtube.com/vi/VID365/maxresdefault.jpg,Learn Python in 10 Minutes – Is It Possible?,False advertising with that thumbnail. Fake content.,107,-0.75,1
+VID366,https://img.youtube.com/vi/VID366/maxresdefault.jpg,Top 10 Secrets You Didn't Know!,"Great video, just like the thumbnail shows!",35,0.8,0
+VID367,https://img.youtube.com/vi/VID367/maxresdefault.jpg,Top 10 Secrets You Didn't Know!,Clickbait! The thumbnail is far from what was in the video.,42,-0.6,1
+VID368,https://img.youtube.com/vi/VID368/maxresdefault.jpg,Top 10 Secrets You Didn't Know!,"Helpful tutorial, just as promised.",65,0.85,0
+VID369,https://img.youtube.com/vi/VID369/maxresdefault.jpg,Top 10 Secrets You Didn't Know!,Thumbnails are just misleading to get views.,149,-0.85,1
+VID370,https://img.youtube.com/vi/VID370/maxresdefault.jpg,Unbelievable Trick to Make Money!,"Real value in this video, thumbnail is genuine.",73,0.8,0
+VID371,https://img.youtube.com/vi/VID371/maxresdefault.jpg,Must-Know Tips for Traveling on a Budget,Thumbnails are just misleading to get views.,103,-0.6,1
+VID372,https://img.youtube.com/vi/VID372/maxresdefault.jpg,Unmasking the Truth About Diets,"Informative video, no misleading here.",61,0.8,0
+VID373,https://img.youtube.com/vi/VID373/maxresdefault.jpg,Top 10 Secrets You Didn't Know!,The video does not match the thumbnail at all.,99,-0.7,1
+VID374,https://img.youtube.com/vi/VID374/maxresdefault.jpg,Breaking News! You Won't Believe This,Good content! Matches the title and thumbnail perfectly.,45,0.85,0
+VID375,https://img.youtube.com/vi/VID375/maxresdefault.jpg,Must-Know Tips for Traveling on a Budget,"Nothing like the thumbnail, this is total clickbait.",123,-0.85,1
+VID376,https://img.youtube.com/vi/VID376/maxresdefault.jpg,How to Get a Million Views on YouTube,"Informative video, no misleading here.",109,0.8,0
+VID377,https://img.youtube.com/vi/VID377/maxresdefault.jpg,Top 10 Secrets You Didn't Know!,"Nothing like the thumbnail, this is total clickbait.",36,-0.6,1
+VID378,https://img.youtube.com/vi/VID378/maxresdefault.jpg,How to Cook Perfect Pasta Every Time,"Clear and honest video, no false thumbnails.",94,0.7,0
+VID379,https://img.youtube.com/vi/VID379/maxresdefault.jpg,Learn Python in 10 Minutes – Is It Possible?,I was expecting something else based on the thumbnail.,146,-0.75,1
+VID380,https://img.youtube.com/vi/VID380/maxresdefault.jpg,Unmasking the Truth About Diets,"Helpful tutorial, just as promised.",58,0.8,0
+VID381,https://img.youtube.com/vi/VID381/maxresdefault.jpg,How to Cook Perfect Pasta Every Time,"Wasted my time, the thumbnail is a lie.",116,-0.8,1
+VID382,https://img.youtube.com/vi/VID382/maxresdefault.jpg,Top 10 Secrets You Didn't Know!,"Great video, just like the thumbnail shows!",42,0.8,0
+VID383,https://img.youtube.com/vi/VID383/maxresdefault.jpg,Unbelievable Trick to Make Money!,Thumbnails are just misleading to get views.,119,-0.75,1
+VID384,https://img.youtube.com/vi/VID384/maxresdefault.jpg,Unbelievable Trick to Make Money!,"Informative video, no misleading here.",136,0.75,0
+VID385,https://img.youtube.com/vi/VID385/maxresdefault.jpg,Discover Hidden Gems in Your City,"Nothing like the thumbnail, this is total clickbait.",64,-0.6,1
+VID386,https://img.youtube.com/vi/VID386/maxresdefault.jpg,Breaking News! You Won't Believe This,"No clickbait, just quality information.",109,0.8,0
+VID387,https://img.youtube.com/vi/VID387/maxresdefault.jpg,Discover Hidden Gems in Your City,I was expecting something else based on the thumbnail.,141,-0.6,1
+VID388,https://img.youtube.com/vi/VID388/maxresdefault.jpg,How to Get a Million Views on YouTube,"Informative video, no misleading here.",67,0.85,0
+VID389,https://img.youtube.com/vi/VID389/maxresdefault.jpg,Unmasking the Truth About Diets,"Thumbnail is fake, the video is boring.",88,-0.85,1
+VID390,https://img.youtube.com/vi/VID390/maxresdefault.jpg,Unbelievable Trick to Make Money!,"Clear and honest video, no false thumbnails.",103,0.85,0
+VID391,https://img.youtube.com/vi/VID391/maxresdefault.jpg,Unmasking the Truth About Diets,"Nothing like the thumbnail, this is total clickbait.",75,-0.85,1
+VID392,https://img.youtube.com/vi/VID392/maxresdefault.jpg,Breaking News! You Won't Believe This,"Clear and honest video, no false thumbnails.",131,0.75,0
+VID393,https://img.youtube.com/vi/VID393/maxresdefault.jpg,Breaking News! You Won't Believe This,Clickbait! The thumbnail is far from what was in the video.,136,-0.8,1
+VID394,https://img.youtube.com/vi/VID394/maxresdefault.jpg,Unmasking the Truth About Diets,"Well done, accurate thumbnail!",143,0.75,0
+VID395,https://img.youtube.com/vi/VID395/maxresdefault.jpg,How to Cook Perfect Pasta Every Time,This video is completely misleading!,94,-0.85,1
+VID396,https://img.youtube.com/vi/VID396/maxresdefault.jpg,Top 10 Secrets You Didn't Know!,"Well done, accurate thumbnail!",40,0.8,0
+VID397,https://img.youtube.com/vi/VID397/maxresdefault.jpg,How to Get a Million Views on YouTube,I was expecting something else based on the thumbnail.,146,-0.85,1
+VID398,https://img.youtube.com/vi/VID398/maxresdefault.jpg,Top 10 Secrets You Didn't Know!,Good content! Matches the title and thumbnail perfectly.,102,0.85,0
+VID399,https://img.youtube.com/vi/VID399/maxresdefault.jpg,Top 10 Secrets You Didn't Know!,"Wasted my time, the thumbnail is a lie.",70,-0.85,1
+VID400,https://img.youtube.com/vi/VID400/maxresdefault.jpg,How to Cook Perfect Pasta Every Time,"Real value in this video, thumbnail is genuine.",60,0.75,0
+VID401,https://img.youtube.com/vi/VID401/maxresdefault.jpg,Learn Python in 10 Minutes – Is It Possible?,"Total clickbait, dislike and report.",47,-0.8,1
+VID402,https://img.youtube.com/vi/VID402/maxresdefault.jpg,Learn Python in 10 Minutes – Is It Possible?,"Well done, accurate thumbnail!",111,0.75,0
+VID403,https://img.youtube.com/vi/VID403/maxresdefault.jpg,Breaking News! You Won't Believe This,"Thumbnail is fake, the video is boring.",69,-0.8,1
+VID404,https://img.youtube.com/vi/VID404/maxresdefault.jpg,Must-Know Tips for Traveling on a Budget,"No clickbait, just quality information.",52,0.85,0
+VID405,https://img.youtube.com/vi/VID405/maxresdefault.jpg,Discover Hidden Gems in Your City,"Wasted my time, the thumbnail is a lie.",37,-0.85,1
+VID406,https://img.youtube.com/vi/VID406/maxresdefault.jpg,Breaking News! You Won't Believe This,"Great content, good representation in the thumbnail.",66,0.6,0
+VID407,https://img.youtube.com/vi/VID407/maxresdefault.jpg,How to Get a Million Views on YouTube,"Wasted my time, the thumbnail is a lie.",100,-0.6,1
+VID408,https://img.youtube.com/vi/VID408/maxresdefault.jpg,How to Cook Perfect Pasta Every Time,"Well done, accurate thumbnail!",90,0.7,0
+VID409,https://img.youtube.com/vi/VID409/maxresdefault.jpg,Learn Python in 10 Minutes – Is It Possible?,Thumbnails are just misleading to get views.,99,-0.8,1
+VID410,https://img.youtube.com/vi/VID410/maxresdefault.jpg,How to Cook Perfect Pasta Every Time,Good content! Matches the title and thumbnail perfectly.,132,0.8,0
+VID411,https://img.youtube.com/vi/VID411/maxresdefault.jpg,Unmasking the Truth About Diets,"Total clickbait, dislike and report.",144,-0.85,1
+VID412,https://img.youtube.com/vi/VID412/maxresdefault.jpg,Discover Hidden Gems in Your City,Good content! Matches the title and thumbnail perfectly.,135,0.75,0
+VID413,https://img.youtube.com/vi/VID413/maxresdefault.jpg,How to Get a Million Views on YouTube,"Wasted my time, the thumbnail is a lie.",106,-0.7,1
+VID414,https://img.youtube.com/vi/VID414/maxresdefault.jpg,How to Cook Perfect Pasta Every Time,"Great content, good representation in the thumbnail.",62,0.7,0
+VID415,https://img.youtube.com/vi/VID415/maxresdefault.jpg,The Best Life Hacks for 2025!,The video does not match the thumbnail at all.,132,-0.7,1
+VID416,https://img.youtube.com/vi/VID416/maxresdefault.jpg,Learn Python in 10 Minutes – Is It Possible?,"Clear and honest video, no false thumbnails.",55,0.7,0
+VID417,https://img.youtube.com/vi/VID417/maxresdefault.jpg,Unmasking the Truth About Diets,False advertising with that thumbnail. Fake content.,67,-0.75,1
+VID418,https://img.youtube.com/vi/VID418/maxresdefault.jpg,Unbelievable Trick to Make Money!,"Real value in this video, thumbnail is genuine.",107,0.75,0
+VID419,https://img.youtube.com/vi/VID419/maxresdefault.jpg,How to Cook Perfect Pasta Every Time,I was expecting something else based on the thumbnail.,73,-0.8,1
+VID420,https://img.youtube.com/vi/VID420/maxresdefault.jpg,How to Cook Perfect Pasta Every Time,"Helpful tutorial, just as promised.",81,0.8,0
+VID421,https://img.youtube.com/vi/VID421/maxresdefault.jpg,How to Cook Perfect Pasta Every Time,"Wasted my time, the thumbnail is a lie.",128,-0.75,1
+VID422,https://img.youtube.com/vi/VID422/maxresdefault.jpg,Unmasking the Truth About Diets,"Exactly what I was looking for, the thumbnail is accurate.",121,0.6,0
+VID423,https://img.youtube.com/vi/VID423/maxresdefault.jpg,How to Cook Perfect Pasta Every Time,False advertising with that thumbnail. Fake content.,70,-0.6,1
+VID424,https://img.youtube.com/vi/VID424/maxresdefault.jpg,Discover Hidden Gems in Your City,"Exactly what I was looking for, the thumbnail is accurate.",85,0.7,0
+VID425,https://img.youtube.com/vi/VID425/maxresdefault.jpg,Must-Know Tips for Traveling on a Budget,False advertising with that thumbnail. Fake content.,86,-0.7,1
+VID426,https://img.youtube.com/vi/VID426/maxresdefault.jpg,Must-Know Tips for Traveling on a Budget,"No clickbait, just quality information.",72,0.75,0
+VID427,https://img.youtube.com/vi/VID427/maxresdefault.jpg,Unbelievable Trick to Make Money!,"Thumbnail is fake, the video is boring.",105,-0.85,1
+VID428,https://img.youtube.com/vi/VID428/maxresdefault.jpg,Unbelievable Trick to Make Money!,"Great video, just like the thumbnail shows!",149,0.8,0
+VID429,https://img.youtube.com/vi/VID429/maxresdefault.jpg,Unmasking the Truth About Diets,I was expecting something else based on the thumbnail.,73,-0.75,1
+VID430,https://img.youtube.com/vi/VID430/maxresdefault.jpg,Top 10 Secrets You Didn't Know!,"Helpful tutorial, just as promised.",75,0.75,0
+VID431,https://img.youtube.com/vi/VID431/maxresdefault.jpg,The Best Life Hacks for 2025!,Thumbnails are just misleading to get views.,112,-0.6,1
+VID432,https://img.youtube.com/vi/VID432/maxresdefault.jpg,Discover Hidden Gems in Your City,"Helpful tutorial, just as promised.",103,0.85,0
+VID433,https://img.youtube.com/vi/VID433/maxresdefault.jpg,Unmasking the Truth About Diets,Thumbnails are just misleading to get views.,81,-0.7,1
+VID434,https://img.youtube.com/vi/VID434/maxresdefault.jpg,Must-Know Tips for Traveling on a Budget,Good content! Matches the title and thumbnail perfectly.,33,0.75,0
+VID435,https://img.youtube.com/vi/VID435/maxresdefault.jpg,Must-Know Tips for Traveling on a Budget,The video does not match the thumbnail at all.,129,-0.6,1
+VID436,https://img.youtube.com/vi/VID436/maxresdefault.jpg,How to Get a Million Views on YouTube,Good content! Matches the title and thumbnail perfectly.,57,0.8,0
+VID437,https://img.youtube.com/vi/VID437/maxresdefault.jpg,The Best Life Hacks for 2025!,Clickbait! The thumbnail is far from what was in the video.,52,-0.75,1
+VID438,https://img.youtube.com/vi/VID438/maxresdefault.jpg,Unmasking the Truth About Diets,"Great video, just like the thumbnail shows!",55,0.7,0
+VID439,https://img.youtube.com/vi/VID439/maxresdefault.jpg,Discover Hidden Gems in Your City,Thumbnails are just misleading to get views.,96,-0.75,1
+VID440,https://img.youtube.com/vi/VID440/maxresdefault.jpg,How to Get a Million Views on YouTube,"Well done, accurate thumbnail!",114,0.6,0
+VID441,https://img.youtube.com/vi/VID441/maxresdefault.jpg,Discover Hidden Gems in Your City,I was expecting something else based on the thumbnail.,69,-0.6,1
+VID442,https://img.youtube.com/vi/VID442/maxresdefault.jpg,Top 10 Secrets You Didn't Know!,"Great content, good representation in the thumbnail.",117,0.85,0
+VID443,https://img.youtube.com/vi/VID443/maxresdefault.jpg,Unmasking the Truth About Diets,"Thumbnail is fake, the video is boring.",74,-0.7,1
+VID444,https://img.youtube.com/vi/VID444/maxresdefault.jpg,How to Get a Million Views on YouTube,"Great video, just like the thumbnail shows!",113,0.7,0
+VID445,https://img.youtube.com/vi/VID445/maxresdefault.jpg,Breaking News! You Won't Believe This,I was expecting something else based on the thumbnail.,93,-0.75,1
+VID446,https://img.youtube.com/vi/VID446/maxresdefault.jpg,The Best Life Hacks for 2025!,"No clickbait, just quality information.",89,0.75,0
+VID447,https://img.youtube.com/vi/VID447/maxresdefault.jpg,Must-Know Tips for Traveling on a Budget,"Thumbnail is fake, the video is boring.",150,-0.7,1
+VID448,https://img.youtube.com/vi/VID448/maxresdefault.jpg,Top 10 Secrets You Didn't Know!,"Real value in this video, thumbnail is genuine.",109,0.75,0
+VID449,https://img.youtube.com/vi/VID449/maxresdefault.jpg,How to Cook Perfect Pasta Every Time,Clickbait! The thumbnail is far from what was in the video.,73,-0.75,1
+VID450,https://img.youtube.com/vi/VID450/maxresdefault.jpg,The Best Life Hacks for 2025!,"Great video, just like the thumbnail shows!",144,0.85,0
+VID451,https://img.youtube.com/vi/VID451/maxresdefault.jpg,How to Get a Million Views on YouTube,"Thumbnail is fake, the video is boring.",39,-0.85,1
+VID452,https://img.youtube.com/vi/VID452/maxresdefault.jpg,Unmasking the Truth About Diets,"Great content, good representation in the thumbnail.",75,0.7,0
+VID453,https://img.youtube.com/vi/VID453/maxresdefault.jpg,Unbelievable Trick to Make Money!,False advertising with that thumbnail. Fake content.,98,-0.8,1
+VID454,https://img.youtube.com/vi/VID454/maxresdefault.jpg,How to Cook Perfect Pasta Every Time,"Well done, accurate thumbnail!",59,0.75,0
+VID455,https://img.youtube.com/vi/VID455/maxresdefault.jpg,How to Get a Million Views on YouTube,"Thumbnail is fake, the video is boring.",70,-0.6,1
+VID456,https://img.youtube.com/vi/VID456/maxresdefault.jpg,Unmasking the Truth About Diets,"Exactly what I was looking for, the thumbnail is accurate.",51,0.6,0
+VID457,https://img.youtube.com/vi/VID457/maxresdefault.jpg,Top 10 Secrets You Didn't Know!,This video is completely misleading!,69,-0.85,1
+VID458,https://img.youtube.com/vi/VID458/maxresdefault.jpg,Must-Know Tips for Traveling on a Budget,Good content! Matches the title and thumbnail perfectly.,68,0.8,0
+VID459,https://img.youtube.com/vi/VID459/maxresdefault.jpg,Discover Hidden Gems in Your City,I was expecting something else based on the thumbnail.,146,-0.75,1
+VID460,https://img.youtube.com/vi/VID460/maxresdefault.jpg,The Best Life Hacks for 2025!,"Informative video, no misleading here.",38,0.7,0
+VID461,https://img.youtube.com/vi/VID461/maxresdefault.jpg,Top 10 Secrets You Didn't Know!,False advertising with that thumbnail. Fake content.,108,-0.8,1
+VID462,https://img.youtube.com/vi/VID462/maxresdefault.jpg,Must-Know Tips for Traveling on a Budget,"Informative video, no misleading here.",140,0.75,0
+VID463,https://img.youtube.com/vi/VID463/maxresdefault.jpg,Learn Python in 10 Minutes – Is It Possible?,The video does not match the thumbnail at all.,111,-0.75,1
+VID464,https://img.youtube.com/vi/VID464/maxresdefault.jpg,Learn Python in 10 Minutes – Is It Possible?,"Helpful tutorial, just as promised.",81,0.6,0
+VID465,https://img.youtube.com/vi/VID465/maxresdefault.jpg,How to Cook Perfect Pasta Every Time,"Thumbnail is fake, the video is boring.",71,-0.7,1
+VID466,https://img.youtube.com/vi/VID466/maxresdefault.jpg,The Best Life Hacks for 2025!,"Helpful tutorial, just as promised.",105,0.6,0
+VID467,https://img.youtube.com/vi/VID467/maxresdefault.jpg,Breaking News! You Won't Believe This,"Nothing like the thumbnail, this is total clickbait.",103,-0.8,1
+VID468,https://img.youtube.com/vi/VID468/maxresdefault.jpg,The Best Life Hacks for 2025!,"Well done, accurate thumbnail!",110,0.8,0
+VID469,https://img.youtube.com/vi/VID469/maxresdefault.jpg,Discover Hidden Gems in Your City,False advertising with that thumbnail. Fake content.,92,-0.6,1
+VID470,https://img.youtube.com/vi/VID470/maxresdefault.jpg,Unbelievable Trick to Make Money!,"Great video, just like the thumbnail shows!",132,0.85,0
+VID471,https://img.youtube.com/vi/VID471/maxresdefault.jpg,How to Get a Million Views on YouTube,This video is completely misleading!,69,-0.85,1
+VID472,https://img.youtube.com/vi/VID472/maxresdefault.jpg,Unmasking the Truth About Diets,"No clickbait, just quality information.",60,0.7,0
+VID473,https://img.youtube.com/vi/VID473/maxresdefault.jpg,How to Get a Million Views on YouTube,"Thumbnail is fake, the video is boring.",102,-0.6,1
+VID474,https://img.youtube.com/vi/VID474/maxresdefault.jpg,Learn Python in 10 Minutes – Is It Possible?,"Helpful tutorial, just as promised.",131,0.8,0
+VID475,https://img.youtube.com/vi/VID475/maxresdefault.jpg,The Best Life Hacks for 2025!,"Total clickbait, dislike and report.",99,-0.8,1
+VID476,https://img.youtube.com/vi/VID476/maxresdefault.jpg,How to Get a Million Views on YouTube,"Great video, just like the thumbnail shows!",66,0.75,0
+VID477,https://img.youtube.com/vi/VID477/maxresdefault.jpg,Breaking News! You Won't Believe This,"Total clickbait, dislike and report.",54,-0.6,1
+VID478,https://img.youtube.com/vi/VID478/maxresdefault.jpg,Must-Know Tips for Traveling on a Budget,"Great video, just like the thumbnail shows!",92,0.6,0
+VID479,https://img.youtube.com/vi/VID479/maxresdefault.jpg,How to Cook Perfect Pasta Every Time,This video is completely misleading!,97,-0.7,1
+VID480,https://img.youtube.com/vi/VID480/maxresdefault.jpg,The Best Life Hacks for 2025!,"Great content, good representation in the thumbnail.",133,0.6,0
+VID481,https://img.youtube.com/vi/VID481/maxresdefault.jpg,The Best Life Hacks for 2025!,"Total clickbait, dislike and report.",57,-0.8,1
+VID482,https://img.youtube.com/vi/VID482/maxresdefault.jpg,The Best Life Hacks for 2025!,"No clickbait, just quality information.",90,0.85,0
+VID483,https://img.youtube.com/vi/VID483/maxresdefault.jpg,How to Cook Perfect Pasta Every Time,"Thumbnail is fake, the video is boring.",143,-0.85,1
+VID484,https://img.youtube.com/vi/VID484/maxresdefault.jpg,How to Get a Million Views on YouTube,"Exactly what I was looking for, the thumbnail is accurate.",30,0.85,0
+VID485,https://img.youtube.com/vi/VID485/maxresdefault.jpg,Breaking News! You Won't Believe This,"Total clickbait, dislike and report.",127,-0.7,1
+VID486,https://img.youtube.com/vi/VID486/maxresdefault.jpg,Unmasking the Truth About Diets,"Helpful tutorial, just as promised.",42,0.8,0
+VID487,https://img.youtube.com/vi/VID487/maxresdefault.jpg,Must-Know Tips for Traveling on a Budget,Thumbnails are just misleading to get views.,99,-0.75,1
+VID488,https://img.youtube.com/vi/VID488/maxresdefault.jpg,Breaking News! You Won't Believe This,"Helpful tutorial, just as promised.",140,0.75,0
+VID489,https://img.youtube.com/vi/VID489/maxresdefault.jpg,Learn Python in 10 Minutes – Is It Possible?,"Wasted my time, the thumbnail is a lie.",117,-0.8,1
+VID490,https://img.youtube.com/vi/VID490/maxresdefault.jpg,Learn Python in 10 Minutes – Is It Possible?,"No clickbait, just quality information.",150,0.85,0
+VID491,https://img.youtube.com/vi/VID491/maxresdefault.jpg,The Best Life Hacks for 2025!,"Total clickbait, dislike and report.",137,-0.75,1
+VID492,https://img.youtube.com/vi/VID492/maxresdefault.jpg,Unmasking the Truth About Diets,"Well done, accurate thumbnail!",112,0.6,0
+VID493,https://img.youtube.com/vi/VID493/maxresdefault.jpg,Breaking News! You Won't Believe This,"Thumbnail is fake, the video is boring.",35,-0.75,1
+VID494,https://img.youtube.com/vi/VID494/maxresdefault.jpg,How to Cook Perfect Pasta Every Time,"Well done, accurate thumbnail!",88,0.75,0
+VID495,https://img.youtube.com/vi/VID495/maxresdefault.jpg,How to Get a Million Views on YouTube,"Nothing like the thumbnail, this is total clickbait.",128,-0.7,1
+VID496,https://img.youtube.com/vi/VID496/maxresdefault.jpg,Learn Python in 10 Minutes – Is It Possible?,"Informative video, no misleading here.",87,0.8,0
+VID497,https://img.youtube.com/vi/VID497/maxresdefault.jpg,Discover Hidden Gems in Your City,The video does not match the thumbnail at all.,117,-0.75,1
+VID498,https://img.youtube.com/vi/VID498/maxresdefault.jpg,The Best Life Hacks for 2025!,Good content! Matches the title and thumbnail perfectly.,73,0.8,0
+VID499,https://img.youtube.com/vi/VID499/maxresdefault.jpg,The Best Life Hacks for 2025!,"Wasted my time, the thumbnail is a lie.",138,-0.75,1
+VID500,https://img.youtube.com/vi/VID500/maxresdefault.jpg,The Best Life Hacks for 2025!,"Clear and honest video, no false thumbnails.",130,0.85,0
